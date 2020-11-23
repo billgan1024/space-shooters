@@ -1,0 +1,30 @@
+{
+    "id": "107194a7-3bb9-441b-ae0e-75ed0ed16e8d",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "107194a7-3bb9-441b-ae0e-75ed0ed16e8d",
+    "children": [
+        "0a8b286d-11f9-4940-bbbb-80eccdec03ed",
+        "6417917d-e00c-44e8-9989-0ea8b66ba7de",
+        "9ba08063-69b8-4092-b315-dca81d5817f8",
+        "964100eb-4857-4483-b0ca-ba8fe794b699",
+        "cb7c34dd-4301-4f15-800a-b6f43fb5845c",
+        "51327634-8e6d-4261-af5e-3dde19fd3415",
+        "30c413ff-0119-4534-93c1-20bf45ff089f",
+        "01a1416b-b87a-4a37-bf30-0e186eebff42",
+        "a5f48a2d-261c-4e33-b3ac-ab8da43ad43e",
+        "871be6f5-60a8-4d22-a2e1-448dfdeabf70",
+        "6906e628-4d4c-4786-b380-a5843c67200b",
+        "3435e05f-87d5-42b5-a8ef-e3f32582aaf6",
+        "2cc90a03-eb98-488d-a73d-2cb2a68fb49c",
+        "b911ff1e-9f39-478d-8b6c-9c2351ec7b30",
+        "774e40a9-4b3a-4e06-9e4f-c59ef470f281",
+        "a9ff1dab-bba0-4b7e-9bd1-c3683d7d26a2",
+        "1b4fdd96-aca7-4352-982b-9e311b12e394",
+        "6ea3a326-a442-49fe-a50b-c048fe109e93"
+    ],
+    "filterType": "GMObject",
+    "folderName": "Abilities",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

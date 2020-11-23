@@ -1,0 +1,1 @@
+client_show_notification("Server has closed.", 1280 + view_menux, 1200  + view_menuy);

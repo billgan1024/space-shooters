@@ -1,0 +1,3 @@
+Title creation:
+Orange glow colour: #FF9524
+Size: 200

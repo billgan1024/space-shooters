@@ -1,0 +1,10 @@
+ct = 0;
+movespeed = 10;
+fric = 1;
+move = true;
+hit = false;
+text = "";
+canshoot = false;
+alarm[1] = 10;
+laserCount = 0;
+dead = false;

@@ -1,0 +1,2 @@
+if(global.soundfx) audio_play_sound(snd_splat, 0, false);
+if(global.particles) scr_sprite_explode(obj_demo_controller_new.max_life, obj_demo_controller_new.min_life, obj_demo_controller_new.max_speed, obj_demo_controller_new.min_speed, obj_demo_controller_new.max_peice_size, obj_demo_controller_new.min_peice_size, obj_demo_controller_new.spin, obj_demo_controller_new.fade, obj_demo_controller_new.fade_amt, obj_demo_controller_new.fade_to_color, obj_demo_controller_new.end_color_display, obj_demo_controller_new.color_fade_speed, obj_demo_controller_new.implode);
